@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER NGINX Docker Maintainers "docker-maint@nginx.com"
+MAINTAINER NGINX Docker Maintainers ""
 
 ENV NGINX_VERSION 1.11.5-1~jessie
 
